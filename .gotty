@@ -1,0 +1,16 @@
+port = "8080"
+title_format = "gotty"
+term = "hterm"
+preferences {
+  background_color = "rgb(16, 16, 16)"
+  background_image = ""
+  cursor_blink = true
+  cursor_color = "rgba(255, 255, 255, 0.5)"
+  ctrl_c_copy = false
+  ctrl_v_paste = false
+  east_asian_ambiguous_as_two_column = false
+  font_family = "monospace"
+  font_size = 16
+  foreground_color = "rgb(240, 240, 240)"
+  user_css = ""
+}
